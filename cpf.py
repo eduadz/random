@@ -1,5 +1,5 @@
 #Esse programa é pra conferir o cpf e descobrir os digitos verificadores
-cpf = str(input('Digite seu 9 primeiros dígitos: '))
+cpf = str(input('Digite seu 9 primeiros dígitos do cpf: '))
 lista = []
 
 #adicionar valores na lista
